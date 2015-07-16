@@ -1,0 +1,39 @@
+# Build & dev tools
+brew install git
+brew install make
+brew install automake
+brew install autoconf
+brew install carthage
+brew install cookiecutter
+brew install ngrok
+
+# Shells
+brew install zsh
+brew install bash
+
+# Programming languages
+brew install python
+brew install python3
+brew install node
+
+# Databases
+brew install mysql
+brew install postgresql
+brew install sqlite
+brew install redis
+
+# Tools
+brew install pwgen
+brew install tmux
+brew install terminal-notifier
+brew install wget --with-iri
+brew install homebrew/dupes/grep
+brew install homebrew/dupes/openssh
+brew install homebrew/dupes/screen
+
+# Media
+brew install ffmpeg
+brew install youtube-dl
+
+# Other
+brew install openssl

@@ -1,0 +1,31 @@
+# Browsers
+brew cask install google-chrome
+brew cask install firefox
+
+# Communication
+brew cask install skype
+brew cask install teamspeak-client
+
+# Tools
+brew cask install alfred
+brew cask install bartender
+brew cask install commandq
+brew cask install cyberduck
+brew cask install daisydisk
+brew cask install iterm2
+brew cask install virtualbox
+
+# Editors / IDEs
+brew cask install pycharm-ce
+brew cask install sublime-text
+
+# Quick look extensions
+brew cask install qlcolorcode
+
+# Games
+brew cask install battle-net
+
+# Media
+brew cask install gopro-studio
+brew cask install vlc
+brew cask install waltr
